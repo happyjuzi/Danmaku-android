@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DanmakuLayout">
+
+        <attr name="danmaku_clickable" format="boolean" />
+        <attr name="danmaku_auto_height" format="boolean" />
+        <attr name="max_count" format="integer" />
+        <attr name="auto_lines" format="boolean" />
+        <attr name="lines" format="integer" />
+
+    </declare-styleable>
+</resources>
